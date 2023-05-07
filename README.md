@@ -7,3 +7,4 @@ Codul front-end al site-ului este open source, binevenit pentru a ajuta la optim
 * [codul front-end](https://github.com/xxai-art/web)
 * [Pachete lingvistice pentru site-ul ca întreg](https://github.com/xxai-art/web/tree/main/i18n)
 * [Pachete de limbi pentru modulele de conectare](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Documentație multilingvă a site-ului web](https://github.com/xxai-doc)
